@@ -9,4 +9,7 @@ import javax.transaction.Transactional;
 @ApplicationScoped
 @Transactional
 public class VehicleRepository implements PanacheRepository<Vehicle> {
+
+
+
 }
